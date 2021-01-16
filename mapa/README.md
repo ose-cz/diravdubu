@@ -3,7 +3,7 @@
   title: 'Mapa'
 ---
 # Mapa
-![Mapa](docs/mapa/Mapa.png)
+![Mapa](/Mapa.png)
 ## Mapa ke stažení
 PDF s mapou ke stažení [zde][a95b7862].
 
