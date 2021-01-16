@@ -13,7 +13,7 @@ Pokud byl lovec v oblasti 13 probuzen, výsledky 1 nebo 2 na hodech náhodnýc
 ## Přehled událostí
 
 k20 | Událost
-:----:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+:----:|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1   | Z podlahy, zdi nebo stropu vyraší kořen. Prstovitým konečkem ukazuje náhodným směrem. Ozve se vzdálený smích.
 2   | Objeví se přízračný čaroděj ve fialové róbě a s bílými vousy. Přísně gestikuluje a prohlásí: „Bozurah Nehynoucí zakazuje vstup za toto místo“. Pak iluze zmizí. Pokud postavy projdou skrz „zakázané“ místo, musí si hodit na záchranu proti kouzlům, nebo jim naroste dlouhý, bílý knír.
 3   | Náhlý vířící poryv větru uhasí pochodně a svíčky. Lucerny mají šanci 3 ze 6, že zůstanou hořet.
