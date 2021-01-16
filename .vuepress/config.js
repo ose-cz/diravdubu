@@ -11,5 +11,13 @@ module.exports = {
      './popis-oblasti/',
      './rozsireni-jeskyne/'
    ]
- }
+ },
+ plugins: [
+    [
+      '@vuepress/google-analytics',
+      {
+        'ga': 'G-36N3KZNCYR' // UA-00000000-0
+      }
+    ]
+  ]
 }
