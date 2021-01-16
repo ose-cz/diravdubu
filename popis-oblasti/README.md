@@ -338,3 +338,308 @@ k6 | Objevený předmět
 
 ## 30. Most přes řeku
 **Přírodní jeskyně** (10 stop vysoká). **Pádící řeka** (studená mlha). **Klenutý kamenný most** (bez hrazení, 10 stop pád do vody).
+
+## 31. Sál královen
+**Kamenné bloky** (stěny, strop 10 stop a podlaha). **Sochy pradávných královen** (vysoké a útlé). **Slizké řasy** (pokrývají vše).
+- **Otevření tajných dveří:** Stisknutím kamene u základny sochy stojící vedle nich.
+
+## 32. Skrytá krypta
+**Kamenné bloky** (stěny, strop 10 stop a podlaha). **Zatuchlý vzduch** (lehký zápach smrti). **Silná vrstva prachu** (při rozrušení se zvíří). **Rezavé svícny** (ve tvaru hadů).
+### Kamenný sarkofág
+**Zubatá hadí tvář** (vyřezaná do víka). **Nápis** (cizokrajné písmo, kolem okraje).
+- **Čtení písma:** Je napsané v jazyku draků a znamená: „JORG ZNESVĚTITEL, V ŽIVOTĚ VZPOUZEL SE KEZEKOVI, VE SMRTI SLOUŽÍ“.
+- **Otevření sarkofágu:** Odhalí nemrtvé tělo Jorga Znesvětitele.
+### Jorg Znesvětitel
+**Rozbitá hlava** (otevřená lebka bez mozku). **Zářící modré oči** (zlý pohled). **Rezavá kroužková zbroj** (téměř rozpadlá). **Světle modrý meč** (položený přes trup). **Zlatý náhrdelník s rubíny** (ve tvaru hada).
+- **Reakce:** Vstane a zaútočí na ty, kdo narušili jeho odpočinek.
+#### Jorg Znesvětitel (fext)
+**ÚČ** 5 [14], 3 * **KŽ** (13 živ.), **útk.** 1× meč (1k8+1 plus vysátí energie), **THAC0** 17 [+2], **pohyb** 90' (30'), **zách.** S12 H13 P14 D15 K16 (3), **morál.** 12, **přesv.** chaotické, 50 **zk.**
+- **Nemrtvý:** Nevydává žádné zvuky, dokud nezaútočí. Imunní proti účinkům ovlivňujícím živé tvory (např. jed). Imunní vůči čtení mysli a kouzlům ovlivňujícím mysl (např. _zmámení, spoutání, spánek_).
+- **Imunita vůči běžným zbraním:** Dá se zranit pouze stříbrnou zbraní nebo magií.
+- **Vysátí energie:** Úspěšně zasažený cíl trvale ztrácí jednu úroveň (nebo kostku životů). To způsobí ztrátu životů za jednu KŽ, stejně jako všech ostatních výhod z dané úrovně (např. kouzla, záchranné hody atd.). Zkušenosti postavy klesnou na poloviční hodnotu mezi původní a současnou úrovní. Postava, která ztratí všechny úrovně, se za 1k4 dní změní na fexta pod kontrolou fexta, který ji zabil.
+- **Předměty:** Světle modrý meč (viz Azurová hadí čepel). Zlatý náhrdelník s rubíny (2500 zl.). Náhrdelník je očarovaný zlou magií. Když se nasadí mrtvému, uvězní duši zemřelého a způsobí, že se z těla stane fext.
+### Azurová hadí čepel
+**Světle modrý kov** (nepřirozeně lehký). **Tenká čepel** (ale pevnější než ocel). **Hadí rytiny** (zkroucené podél čepele).
+- **Schopnosti:** Meč je kouzelný: +1 k útoku a zranění. Dává nositeli schopnost dýchat ve vodě.
+- **Historie:** Azurová hadí čepel je jednou ze tří hadích čepelí vykovaných Bílou ligou v jejich boji proti ještěřím kultům. Viz [**Přehled dobrodružství**][833ae103].
+
+  [833ae103]: ../prehled-dobrodruzstvi/#historie "Přehled dobrodružství"
+
+## 33. Hnízdiště netopýrů
+**Přírodní jeskyně** (30 stop vysoká). **Zápach čpavku** (guáno). **Vlhká podlaha** (žíhaná guánem). **Kamenné pilíře** (do stropu).
+- **Západ:** Slabá zelená záře, teplo.
+- **Hlasité zvuky:** Vyrušili jste netopýry, kteří hnízdí u stropu jeskyně. Začali panicky poletovat.
+- **Prozkoumání pilířů:** Na nejzápadnějším pilíři je nápis: „BĚHEM ČASŮ ZDE VYROSTLO MNOHO VĚCÍ. PÁTREJTE HLUBOKO A NAJDETE BOHATSTVÍ.“
+#### 100 obyčejných netopýrů
+**ÚČ** 6 [13],1 **KŽ** 1 živ, **útk.** 1× hejno (zmatený), **THAC0** 20 [–1], **pohyb** 120' (40') létání, **zách.** S14 H15 P16 D17 K18 (PČ), **morál.** 6, **přesv.** neutrální, 5 **zk.**
+- **Echolokace:** Imunní vůči účinkům zhoršujícím vidění. Magické ticho je oslepuje.
+- **Hejno:** 10 netopýrů může vytvořit hejno kolem hlavy a způsobit zmatení: –2 k hodům na útok a záchranu; není možné kouzlit.
+- **Útok:** Jako normální člověk.
+- **Lekaví:** Hod na morálku každé kolo.
+
+## 34. Strážný pilíř
+**Přírodní jeskyně** (30 stop vysoká). **Slizký kamenný pilíř** (pokrytý řasami).
+- **Západ:** Zápach čpavku.
+- **Hledání skrytých dveří:** Štěrbina na oko a západka ukrytá za řasami.
+- **Za skrytými dveřmi:** Černý kostlivec stojící na stráži (viz Černí kostlivci, doplnit stranu). Drží stříbrný meč v hodnotě 750 zl. (250 zl., pokud byl použit k boji).
+### Gnómí hlídka
+Je tady šance 3 ze 6, že se za sloupem skrývá jeden z gnómů z oblasti 51 a špehuje.
+
+## 35. Dveře tváří
+**Přírodní jeskyně** (30 stop vysoká). **Strmý útes** (rozdrolená skála). **Dřevěné dveře s tvářemi** (severní dveře: býk, prostřední dveře: šašek, jižní dveře: lev).
+- **Poslouchání za dveřmi:** Severní dveře: býčí odfrkávání; prostřední dveře: skotačení a chichotání; jižní dveře: lví řev.
+- **Mluvení:** Pokud zde kdokoli promluví, ozve se ze západu skřípavý zvuk.
+
+## 36. Hromady písku
+**Kamenné bloky** (stěny, strop 10 stop a podlaha). **Bílý písek** (nasypaný do výšky 4–6 stop, pokrývá podlahu).
+- **Hledání skrytých dveří:** Dveře do oblasti 37 jsou 3 stopy vysoké a ukryté za 6 stop vysokou hromadou písku.
+- **Jednosměrné dveře:** Dveře do oblasti 38 jsou pojízdné kovové dveře. Jdou otevřít pouze z této strany.
+### 2 Černí kostlivci
+**Stojí na stráži** (neaktivní, u dveří do oblasti 38). (Viz **[Černí kostlivci][5ef1f434]**).
+
+  [5ef1f434]: #cerni-kostlivci "Černí kostlivci"
+
+## 37. Skrytá komora
+**Cihlová komora** (stěny, strop 3 stopy a podlaha). **Skleněné nádoby** (úhledně naskládané, vyplňují celý prostor).
+- **Uvnitř nádob:** Zuby (lidí, zvířat, nestvůr), hmyzí krunýře, natrhané vlasy.
+- **Prohledání nádob:** Po 1 směně hledání objeví postavy v jedné nádobě poznámku na útržku pergamenu: „Do sbírky Hazrada Zkaženého.“
+
+## 38. Přízračný souboj
+**Kamenné bloky** (stěny, strop 10 stop a podlaha). **Prach** (při rozrušení se zvíří). **Pavučiny** (visí jako závoje).
+- **Východ:** Vůně vývaru.
+- **Jednosměrné dveře:** Dveře do oblasti 36 jsou pojízdné kovové dveře. Z této strany nejdou otevřít.
+### Přízračný souboj
+**Přízračný obří ještěří muž** (hrbatý a vzteklý). **Přízračný lidský bojovník** (kožená zbroj, kopí, štít se symbolem hlavy jelena s břečťanem vpleteným do paroží). **Oba spolu bojují** (oba jsou zranění i krvácejí). **Zvuky bitvy jsou slabé** (i zblízka).
+- **Připojení se do souboje:** Přízračné bojovníky zraňují i obyčejné zbraně.
+- **Pokud je zabit ještěří muž:** Bojovník pronese k postavám: „Ukradli meč… Zachraňte Jorga… Za řekou“, než úplně zmizí.
+- **Pokud je zabit bojovník:** Ještěří muž zaútočí na postavy.
+#### Obří přízračný ještěří muž
+**ÚČ** 4 [15], 6 **KŽ** (15 živ.), **útk.** 2× drápy (1k6), 1× kousnutí (1k6), **THAC0** 14 [+5], **pohyb** 120' (40'), **zách.** S10 H11 P12 D13 K14 (6), **morál.** 12, **přesv.** chaotické, 275 **zk.**
+### Přízračný bojovník
+**ÚČ** 6 [13], 2 **KŽ** (10 živ.), **útk.** 1× oštěp (1k6+1), **THAC0** 18 [+1], **pohyb** 120' (40'), **zách.** S12 H13 P14 D15 K16 (2), **morál.** 12, **přesv.** zákonné, 20 **zk.**
+### 2 černí kostlivci
+**Stojí na stráži** (neaktivní, u dveří do oblasti 36). (Viz **[Černí kostlivci][5ef1f434]**).
+
+## 39. Hostina ohnivců
+**Přírodní jeskyně** (12 stop vysoká). **Nerovná podlaha** (zrádné, skalnaté výčnělky). **Mrtvola obří ještěrky** (10 stop dlouhá, pokrytá slizem).
+- **Boj v této místnosti:** Postavy, které při útoku zblízka hodí 1, utrpí 1k2 zranění.
+### 7 brouků ohnivců
+**Požírají mrtvolu obří ještěrky** (lezou po ní, cvakají).
+#### Brouci ohnivci
+**ÚČ** 4 [15], 1+2 **KŽ** (3, 4, 5, 7, 8, 8, 8 živ.), **útk.** 1× kousnutí (2k4), **THAC0** 18 [+1], **pohyb** 120' (40'), **zách.** S12 H13 P14 D15 K16 (1), **morál.** 7, **přesv.** neutrální, 15 **zk.**
+- **Svítivé uzliny:** Tři svítivé žlázy (dvě nad očima, jedna na břiše) vrhají světlo v poloměru 10 palců. Po vyjmutí svítí 1k6 dní.
+
+## 40. Jeskyně ticha
+**Přírodní jeskyně** (12 stop vysoká). **Kruh z kamenných sedátek** (vysoký 2 stopy). **Shluk ohořelých červených svic** (uprostřed kruhu sedátek).
+- **Pokud jsou dveře zavřené:** Jeskyně je kompletně zvukotěsná. Žádný zvuk nejde slyšet ven ani dovnitř.
+- **Prohledání místnosti:** V rohu se nachází malá buřinka. Do hedvábné podšívky všité: „Majetek Huberta Vysmejka“.
+
+## 41. Průlez
+**Přírodní jeskyně** (3 stopy vysoká). **Slizká podlaha** (hladká kvůli ještěrčí krvi).
+
+## 42. Kapající jeskyně
+**Přírodní jeskyně** (10 stop vysoká). **Spousta třpytících se stalaktitů** (kape z nich voda, dorostlé téměř k podlaze).
+- **Sever:** Vzdálený zvuk příboje, jako vítr nebo voda.
+— **Pohyb v této místnosti:** Rychlost pohybu je snížena o 75 %, protože postavy se musí krčit a ohýbat kolem stalaktitů.
+
+## 43. Díry a praskliny
+**Přírodní jeskyně** (10 stop vysoká). **Nepravidelné díry a praskliny** (ve stěnách, dostatečně velké, aby do nich šla strčit ruka).
+- **Sever:** Zvuk proudící vody. Zápach hnoje.
+- **Sáhnutí do díry:** Postavy můžou něco najít: hoď 1k20 a podívej se do tabulky. (Každá položka se dá najít pouze jednou.) Je šance, že ruka strčená do otvoru zmutuje: hoď 1k12 a podívej se do tabulky.
+
+k20  | Uchopený předmět
+:---:|:---------------------------------------------------------------------------------
+1-10 | Nic
+ 11  | Mosazná soška zobrazující obscénní schůzku dívky a nemravného jednorožce (50 zl.)
+ 12  | Zubatá dýka
+ 13  | Klíč k oblasti 25
+ 14  | Svitek neviditelnosti
+ 15  | Rozladěný netopýr
+ 16  | Naštvaný kamenný skřítek
+ 17  | Mumifikovaná krysa
+ 18  | Smaragd (500 zl.)
+ 19  | Pytlík mosazných hvězdiček (10 zl.)
+ 20  | Stará kožená rukavice (pravá), sedí k té v oblasti 2
+
+k12 | Mutace ruky (trvalá)
+:--:|:-----------------------------------------
+1-6 | Nic
+ 7  | Zelená a šupinatá
+ 8  | Chlupatá s drápy (1k4 útok drápy)
+ 9  | Podobná zombie
+10  | Zvětšení na dvojnásobek
+11  | Drápy podobné těm ptačím (1k4 útok drápy)
+12  | Z ruky odkapává fialový sliz
+
+## 44. Doupě ještěrů
+**Kamenné bloky** (stěny, klenutý strop 10 stop a podlaha). **Hnízdo ještěrů** (10 stop napříč, vytvořené z kostí a říční trávy). **7 vajec velikosti hlavy** (obří hatérie).
+- **Prohledání hnízda:** Dají se tu najít následující předměty: hnijící semišový váček s 92 zl., ohnutý stříbrný prsten v podobě propletených pšeničných snopů na kosti humanoidního prstu. Prsten je kouzelný: nositel získá +1 odolnost a soustředěním může urychlit fermentaci kvasinek na dvacetinásobek jeho normální rychlosti. Nositel se taky stává závislým na chlebu a pivu (musí házet záchranu proti kouzlům, kdykoli má příležitost něco z toho konzumovat a chce svému nutkání odolat).
+### Obří ještěři
+Je šance 2 ze 6, že tady budou hnízdit 1k2 hatérie (z oblasti 46).
+
+## 45. Slizké předsálí
+**Zelené dlaždice** (stěny, klenutý 10 stop vysoký strop a podlaha). **Pokryté řasami** (podlaha a stěny). **Prosvítající nápis** (2 stopy vysoko, na stěnách, pás kolem místnosti).
+- **Očištění nápisu:** Po odstranění řasy jde nápis přečíst (napsaný v obecné řeči): „MODLI SE ZA KEZEKOVO POŽEHNÁNÍ. POŽEHNANÝ MŮŽE PROJÍT VODOPÁDEM A VSTOUPIT DO HLUBIN SVATYNĚ“.
+
+## 46. Ještěří svatyně
+**Kamenné bloky** (stěny, klenutý 6 stop vysoký strop a podlaha). **Zápach** (hnojem vystlaná podlaha). **Špína a řasy** (hladká podlaha a stěny).
+- **Západ:** Hluk narážející vody.
+- **Pohyb v místnosti:** Každý, kdo běží nebo hodí 1 při hodu na útok, uklouzne a spadne (zranění 1 živ., 1 kolo se musí zvedat).
+### 4 hatérie
+**Lenoší** (v hromadách bahna). **Podobné leguánům** (8 stop dlouhé). **Hypnotické oči** (mlhavě fialové, podivně fascinující).
+- **Pohled do očí ještěrky:** Postavy vidí vize erotických rituálů ještěřích lidí.
+#### Hatérie
+**ÚČ** 4 [15], 6 **KŽ** (27 živ.), **útk.** 2× drápy (1k4), 1× kousnutí (2k6), **THAC0** 14 [+5], **pohyb** 90' (30'), **zách.** S10 H11 P12 D13 K14 (4 ), **morál.** 6, **přesv.** neutrální, 275 **zk.**
+- **Infravidění:** 90 stop. Způsobují ho zatahovatelné oční membrány.
+### Oltář ještěřího boha
+**Obří chameleoní bůh** (natažené ruce vytesané do pískovce, zakrývá východní zeď). **Ozdobený řasami** (6 palců silná vrstva). **Sochy tančících ještěřích lidí** (vedle oltáře).
+- **Prozkoumání oltáře:** V levé ruce boha je pod hromadami slizu a řas ukrytá zlatá mísa s vyrytými emblémy gekonů (800 zl.). V misce je 42 elektronových kotoučků s vyrytým okem ještěrky (každý v hodnotě 5 zl.).
+### 2 Černí kostlivci
+**Stojí na stráži** (neaktivní, v západním rohu). (Viz **[Černí kostlivci][5ef1f434]**).
+
+## 47. Ještěří záliv
+**Přírodní jeskyně** (12 stop vysoká, kluzká mlhou). **Pádící řeka** (studená a rychle tekoucí voda). **Písčitý záliv** (pokrytý rybími kostmi a naplaveným dřevem).
+- **Východ:** Zápach hnoje (z oblasti 46). Hluk padající vody (z oblasti 50).
+- **Pátrání v suti:** Dají se tu najít úlomky gnómských kostí, 17 st. a malá dýka.
+### Rybařící ještěři
+Je šance 2 ze 6, že tady budou 1k4 hatérie (z oblasti 46) sedět na břehu a čekat, až kolem poplují ryby.
+
+## 48. Rybářský záliv
+**Přírodní jeskyně** (8 stop vysoká, kluzká mlhou). **Pádící řeka** (studená a rychle tekoucí). **Písčitý záliv** (malé humanoidní stopy). **Rybářské sítě** (natažené do řeky).
+### Rybařící gnóm
+Je šance 2 ze 6, že zde bude jeden z gnómů z oblasti 51–56 tiše sedět a pozorně sledovat rybářské sítě.
+
+## 49. Kluzká říční stezka
+**Přírodní jeskyně** (12 stop vysoká, kluzká mlhou). **Pádící řeka** (studená a rychle tekoucí). **Úchyty na ruce a nohy** (kluzké, klikatí se podél jižního okraje řeky směrem k oblasti 50).
+- **Východ:** Burácení vody (z oblasti 50)
+- **Chůze po stezce:** Postavy bez dovednosti lezení mají šanci 1 z 12, že sklouznou do vody (1 ze 6, pokud mají těžkou zbroj). Postavy s dovedností lezení nemají šanci spadnout.
+
+## 50. Vodopád
+**Přírodní jeskyně** (12 stop vysoká, kluzká mlhou). **Rozbouřený vodopád** (kaskáda 30 stop dolů). **Úchyty na ruce a nohy** (kluzké, klikatí se po jižním okraji k řece pod vodopádem).
+### Uctívači pařezu
+Enkláva kacířských gnómů se usadila v oblastech 51–60 poté, co bylo jejich rodové území (jinde v kouzelném lese) dobyto zlými duchy, které přivolali a ztratili nad nimi kontrolu.
+
+Uctívají pařez zlého stromu, který je ukrytý v oblasti 60.
+
+### 20 kacířských gnómů
+**Malí humanoidi** (3 stopy vysocí). **Dlouhé nosy a vousy** (zapletené). **Zemitá barva kůže a vlasy připomínající kořeny** (rozcuchané). **Špičaté červené plstěné kloboučky** (skrývají v nich předměty).
+- **Reakce:** Gnomové můžou být k postavám přátelští, ale pokusí se je zajmout a obětovat svému bohu, zlému pařezu (oblast 60).
+- **Vůdci:** Bandu vede gnóm jménem Grimm se svou ženou Gribblou, kněžkou pařezu. (Statistiky vůdců jsou popsány v oblasti 58.)
+#### Dospělí kacířští gnómové
+**ÚČ** 5 [14], 1 **KŽ** (4 živ), **útk.** 1× kladivo (1k4) nebo 1× kuše (1k6), **THAC0** 19 [0], **pohyb** 60' (20'), **zách.** S8 H9 P10 D13 K12 (T1), **morál.** 8 (10 při dohledu na Grimma nebo Gribblu), **přesv.** chaotické, 10 **zk.**
+- **Infravidění:** 90 stop.
+- **Předměty:** Každý gnóm má pod kloboukem 2k10 mk., 1k10 st. a jeden zvláštní předmět (viz tabulka).
+### Kacířští gnómové
+
+k20 | Jméno     | Pohlaví/věk  | Rys
+:--:|:----------|:-------------|:-----------
+ 1  | Ogbold    | Dospělý muž  | Smradlavý
+ 2  | Grimm     | Dospělý muž  | Vůdce
+ 3  | Loki      | Starý muž    | Nahrbený
+ 4  | Dreblem   | Dospělý muž  | Nepořádný
+ 5  | Dorobold  | Dospělý muž  | Uchechtaný
+ 6  | Migmir    | Starý muž    | Pivovarník
+ 7  | Fimir     | Dospělý muž  | Řezník
+ 8  | Batabš    | Dospělý muž  | Rybí kosti
+ 9  | Bebe      | Dospělá žena | Úskočná
+10  | Moblima   | Dospělá žena | Obézní
+11  | Gribbla   | Dospělá žena | Kněžka
+12  | Heribotta | Stará žena   | Zubící se
+13  | Lobta     | Dospělá žena | Nože
+14  | Sobina    | Dospělá žena | Šílená
+15  | Meribolla | Stará žena   | Nostalgická
+16  | Jandala   | Dospělá žena | Zrádce
+17  | Krob      | Dítě muž     | Ukrkané
+18  | Grob      | Dítě muž     | Uplakané
+19  | Horibla   | Dítě žena    | Zlá
+20  | Seglina   | Dítě žena    | Laskavá
+
+### Co má gnóm pod kloboukem?
+
+k10 | Předmět
+:--:|:-----------------------------
+ 1  | Váček s 2k20 st.
+ 2  | Drahokam v hodnotě 2k100 zl.
+ 3  | Klubko husté červené vlny
+ 4  | Placatka whiskey
+ 5  | Růžové jablíčko
+ 6  | Mapa rodového doupěte
+ 7  | Černá perla, léčí 1k3 živ.
+ 8  | Skořicová buchtička
+ 9  | Zlatý valoun v hodnotě 75 zl.
+10  | Ochočená myš
+
+## 51. Strážnice a šatna
+**Kamenné bloky** (stěny, strop 8 stop a podlaha). **Barevné pláště** (visí na háčcích). **Dřevěné stoličky** (vyřezávané zvířecí motivy). **Klíč na háčku** (otevírá dveře mezi oblastí 22 a 38 a severní dveře v oblasti 52).
+- **Východ:** Vůně pečeného chleba
+### 1k4 gnómí strážci
+**Poslouchají** (na jih, k oblasti 34). **Hrají na zemi karty** (sázejí se o měďáky).
+
+## 52. Gnómí dům I
+**Kamenné bloky** (stěny, strop 8 stop a podlaha). **Útulné palandy** (pečlivě vyrobené). **Dřevěný stůl a stoličky** (rozehraná desková hra a rozpracovaná skládačka). **Poblikávající svíčky** (na nábytku). **Regály** (rozmanité nádoby s rybami a houbami). **Mosazné sošky opic** (zdobené tečkami, 12× 10 zl).
+- **Prohledání regálů:** Na zadní straně jednoho regálu se skrývá sklenice s vlnou, ve které je ukryto 522 st.
+### Spící gnómové
+Je šance 2 ze 6, že tady budou spát 1k4 chrápající gnómové.
+
+## 53. Společná kuchyně
+**Kamenné bloky** (stěny, strop 8 stop a podlaha). **Dřevěné stoly a židle** (nože, mouka, válečky na těsto). **Železná kamna** (žhavé červené kameny vydávají teplo, ale nekouří). **Vůně pečení** (houbový chléb). **Regály** (sklenice s moukou, rozinkami, houbami, sušenými krevetami).
+### 1k4 vařících gnómů
+**Zpívají** (veselé dětské popěvky).
+
+## 54. Sál portrétů
+**Kamenné bloky** (stěny, strop 8 stop a podlaha). **Portréty gnómů** (visí na zdi, olejové malby).
+- **Jih:** Vůně pečeného chleba.
+- **Prozkoumání obrazů:** Jsou různého věku a kvality, malované různými autory. Jde poznat některé současné obyvatele. Jeden pozoruhodný obraz líčí gnómskou stařenku pokrytou chrpami, usmívá se.
+
+## 55. Rybářský sklad
+**Kamenné bloky** (stěny, strop 8 stop a podlaha). **Vědra** (s vodou). ÷ (čerstvé ryby, utkané z kořenů). **Železná láhev s rozprašovačem** (visí na háčku).
+- **Sever:** Zvuk proudící vody.
+- **Prozkoumání lahve s rozprašovačem:** Obsahuje lepkavou, štiplavou tekutinu, která působí jako odpuzovač ještěrů. Bere se jako útok na blízko, který zažene zasaženého ještěra na útěk. Láhev obsahuje dostatek tekutiny na 30 stříknutí.
+### 1k3 gnómí strážci
+**Nahlížejí** (severními dveřmi, hlídají před ještěry).
+
+## 56. Gnómí dům II
+**Kamenné bloky** (stěny, strop 8 stop a podlaha). **Útulné palandy** (zakryté hromadami přikrývek). **Dřevěný stůl a stoličky** (částečně vyřezávané). **Poblikávající svíčky** (na nábytku). **Regály** (rozmanité nádoby s rybami a kořeny v prášku).
+- **Prohledání postelí:** Pod matrací je plochá krabička obsahující 300 mk. a citrín v hodnotě 50 zl.
+### Spící gnómové
+Je šance 2 ze 6, že tady budou spát 1k4 chrápající gnómové.
+
+## 56. Taktická místnost
+**Kamenné bloky** (stěny, strop 8 stop a podlaha). **Dřevěný stůl a židle** (robustní). **Velká mapa** (4 stopy široká). **Poblikávající svíčky** (kolem mapy). **Regály** (sklenice se sušenými rybami a zavařené sladkosti). **Police na knihy** (mnoho malých svazků).
+- **Prozkoumání mapy:** Zobrazuje kouzelný les s vyznačenými zvláštními místy.
+- **Prozkoumání knih:** Jsou napsané v gnómštině a řeší mnoho témat, včetně několika děsivých knih rituálů na vyvolání zlých duchů.
+- **Prohledání polic na knihy:** Jedna má falešnou zadní stranu a ukrývá malou přihrádku, která obsahuje 499 zl. a safír v hodnotě 750 zl.
+### Intrikářští gnómové
+Je šance 2 ze 6, že Grimm (gnómí vůdce) a 1k3 dalších gnómů kují pikle nad mapou a diskutují o plánech na převzetí kouzelného lesa tím, že očarují kořeny všech stromů.
+
+## 58. Ložnice Grimma a Gribbly
+**Kamenné bloky** (stěny, strop 5 stop a podlaha). **Pohodlná dvojpostel** (gnómí velikosti). **Šatní skříň** (nacpaná vlněnými svetry a plášti upletenými z kořenů; vzadu je skryta lebka gnóma).
+### Grimm a Gribbla
+Je šance 3 ze 6, že jsou v této místnosti přítomni Grimm a Gribbla, kteří buď spí, nebo si navzájem rituálně zdobí nahá těla větvičkami a bahnem.
+#### Gnómí vůdce: Grimm
+**ÚČ** 3 [16], 2 **KŽ** (11 živ.), **útk.** 1× kladivo (1k4) nebo 1× kuše (1k6), **THAC0** 18 [+1], **pohyb** 60' (20'), **zách.** S8 H9 P10 D13 K12 (T1), **morál.** 10, **přesv.** chaotické, 20 **zk.**
+- **Vybavení:** Grimm nosí kouzelnou kroužkovou zbroj +1 (černější než noc) a štít +1 ozdobený zuby obří krysy.
+#### Kněžka gnómího pařezu: Gribbla:
+**ÚČ** 7 [12], 2 * **KŽ** (11 živ.), **útk.** 1× nůž (1k4) nebo 1× kouzlo, **THAC0** 18 [+1], **pohyb** 90' (30'), **zách.** S8 H9 P10 D13 K12 (D2), **morál.** 10, **přesv.** chaotické, 25 **zk.**
+- **Kouzla:** Gribbla může jednou za den zakouzlit _zmam osoby_ a _ochranu před zlem_.
+
+## 59. Jídelna
+**Kamenné bloky** (stěny, strop 8 stop a podlaha). **Dřevěné stoly a stoličky** (kovové talíře a příbory). **Poblikávající svíčky** (na stolech). **Závěs** (zakrývá východní stěnu, vyšívaný lesním výjevem).
+- **Nalezení dveří do oblasti 60:** Odhalí se posunutím závěsu stranou.
+- **Otázka na gnómy ohledně skrytých dveří:** Řeknou, že je to jen sklad.
+### Ochočená obří krysa
+**Tlustá a přátelská** (dobře krmená zbytky ryb). **Připoutaná** (k noze stolu).
+#### Ochočená obří krysa
+**ÚČ** 7 [12], 1⁄2 **KŽ** (2 živ.), **útk.** 1× kousnutí (1k3 + nákaza), **THAC0** 19 [0], **pohyb** 120' (40') / 60' (20') plavání, **zách.** S12 H13 P14 D15 K16 (1), **morál**. 8, **přesv.** neutrální, 5 **zk.**
+- **Nákaza:** Kousnutí má šanci 1 z 20 infikovat cíl (záchrana proti jedům). Nákaza má šanci 1 ze 4, že bude smrtelná (smrt za 1k6 dní). Jinak je oběť 1 měsíc nemocná a upoutaná na lůžko.
+- **Strach z ohně:** Uteče před ohněm
+
+## 60. Oltář pařezu
+**Kamenné bloky** (stěny, strop 6 stop a podlaha). **Humanoidní kosti** (nahromaděné v rozích). **Červené svíčky** (na hromadách kostí). **Cákance krve** (na podlaze). **Mrtvola trpaslíka** (nahá, zmodralá, vlasy a vousy oholené).
+### Pařez zlého stromu
+**Hrubý pařez** (3 stopy napříč). **Strašidelný obličej** (jako plačící dítě). **Změť kořenů** (kývání a záškuby). **Zlověstně se směje** (sám pro sebe). **Mazlí se s mrtvým trpaslíkem** (kořeny mu strká do otvorů).
+- **Reakce:** Pařez je přehnaně sebevědomý megaloman a bude vyžadovat, aby postavy padly na kolena a klanily se mu. Pokud odmítnou, zaútočí na ně a zavolá své gnómy. Pokud počet postav převyšuje počet gnómů, pařez bude mluvit chaotickým jazykem a nabídne okultní moc každému, kdo mu bude přísahat svou duši.
+- **Vlastnictví pařezu:** Ten, kdo pařezu zapřísáhne svou duši, od něj dostane určité magické schopnosti. K těm patří kouzlo zmam osobu jednou denně. (Sudí může přidat další schopnosti, které se objeví časem.) Na oplátku pařez vyžaduje ochranu, uctívání a krevní oběti.
+#### Pařez zlého stromu
+**ÚČ** 6 [13], 6 * **KŽ** (32 živ.), **útk.** 3 × kořeny (1k4), 1× hlas (kouzlo), **THAC0** 13 [+6], **pohyb** 3' (1'), **zách.** S10 H11 P12 D13 K14 (6), **morál.** 9, **přesv.** chaotické, 500 **zk.**
+- **Zlověstné okouzlení:** Jednou za kolo může pařez zacílit hlasem na živého tvora a vydat povel, který je třeba dodržovat. Oběť si může hodit na záchranu proti kouzlům, aby odolala. Pařez obvykle přikazuje obětem, aby zaútočily na své společníky.
