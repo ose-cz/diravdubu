@@ -20,7 +20,7 @@ Jeskyně je v současnosti domovem řady inteligentních tvorů a frakcí:
 - **Troglodyti** (oblasti 16-17): Gang tří slizkých troglodytů pluje po řece a chytá ryby, ale nebrání se ani teplokrevné kořisti.
 - **Říční ghúlové** (oblasti 18-19): Lstivé přízračné mrtvoly, které udělají cokoliv pro kousnutí do čerstvého masa.
 ### Vztahy
-- **Kacířští gnómové:** Štvaní ještěry v oblasti 46. Bojí se zlobra. Mají neutrální vztah s fauny. Ví o troglodytech a ghúlech, ale nemají s nimi žádný kontakt.
+- **Kacířští gnómové:** Otravují je ještěři z oblasti 46. Bojí se zlobra. Mají neutrální vztah s fauny. Ví o troglodytech a ghúlech, ale nemají s nimi žádný kontakt.
 - **Mutagenní zlobr:** Chce sežrat gnómy. Nenávidí ostatní frakce.
 - **Faunové s ovčí hlavou:** Jsou na pozoru před zlobrem a troglodyty. Neví o ghúlech. Usilují o spojenectví s gnómy.
 - **Troglodyti:** Vyhýbají se kontaktu s ostatními frakcemi.

@@ -14,7 +14,7 @@ Mýtické podsvětí je obecný termín pro podzemní říše mimo pohodlí kaž
 Tato jeskyně se dá umístit do jakéhokoli začarovaného úseku divokého lesa. Této oblasti v textu říkáme kouzelný les.
 ## Potřebné knihy
 Při používání pravidel **Old-School Essentials** bude sudí potřebovat tyto knihy:
-- **Základní pravila**
+- **Základní pravidla**
 - **Klasická fantasy: Kouzla Kleriků a Kouzelníků:** Některé nestvůry a kouzelné předměty v jeskyni odkazují na seznamy kouzel kleriků a kouzelníků.
 
 

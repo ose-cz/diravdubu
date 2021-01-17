@@ -13,7 +13,7 @@
 
 ## 1. Dno šachty
 **Písčitá podlaha** (smíchané otisky kopyt a bot). **Hliněné stěny** (prolezlé kořeny různých velikostí).
-- **Zkoumání kořenů:** V jednom velkém kořenu blízko podlahy je vyrytý nápis „NOLLYHO KRÁLOVSTVÍ“.
+- **Zkoumání kořenů:** V jednom velkém kořenu blízko podlahy je vyřezaný nápis „NOLLYHO KRÁLOVSTVÍ“.
 
 ## 2. Rozcestí
 **Písčitá podlaha** (smíchané otisky kopyt a bot). **Stěny pokryté mechem a kořeny** (hemží se červy). **Nízký tunel** (strop 6 stop vysoko). **Stará kožená rukavice** (položená přes kořen, levá ruka).
@@ -28,7 +28,7 @@
 - **Prostrčení skrz:** Kořeny se pohybují a chytají postavy. Je potřeba hod na obratnost, přičemž selhání znamená, že kořen chytil a ukradl postavě náhodný předmět. Ukradené předměty jsou vtaženy hluboko do zdi.
 - **Získání ukradených předmětů:** Postavy mají jednu šanci, než předmět zmizí: zaútočit zblízka proti OČ 7 [12]. To spustí zlověstné dunění a otřesy tunelu.
 
-## 4. Tváře z hlubin
+## 4. Tváře z kořenů
 **Písčitá podlaha** (smíchané otisky kopyt a bot). **Klenutý strop** (8 stop vysoký). **Zapařený vzduch** (teplý a vlhký).
 - **Východ:** Chladný vánek, zápach čpavku.
 ### Tváře z hlubin
@@ -42,7 +42,7 @@ k10 | Informace
 :----:|:-------------------------------------------------------------------------------------------------
 1   | Ovcohlavci střeží v komnatě hrůz poklad.
 2   | V kamenném sloupu se skrývá stříbrný meč.
-3   | Před dávnými časy tu žili zbožní ještěři. Pohřbili tu velkého nepřítele. Střeží ho jeho královny
+3   | Před dávnými časy tu žili zbožní ještěři. Pohřbili tu velkého nepřítele. Střeží ho jeho královny.
 4   | Nepleťte se do cesty lovci. Dodnes v těchto jeskyních straší.
 5   | Rohatý zlobr vlastní poklad, jehož hodnotu nechápe.
 6   | Gnómové jsou strážci tajného boha s obrovskou mocí.
@@ -191,7 +191,7 @@ k10 | Informace
 #### Ghúlové
 **ÚČ** 6 [13], 2 * **KŽ** (4, 7, 8, 9, 12, 12 a 13 živ.), **útk.** 2× drápy (1k3 + paralýza), 1× kousnutí (1k3 + paralýza), **THAC0** 18 [+1 ], **pohyb** 90' (30'), **zách.** S12 H13 P14 D15 K16 (2), **morál.** 9, **přesv.** chaotické, 25 **zk.**
 - **Paralýza:** Na 2k4 směny (záchrana proti paralýze). Nemá vliv na elfy a bytosti větší než zlobr. Po paralyzování cíle zaútočí ghúlové na ostatní.
-- Nemrtví:* Nedělají žádný hluk, dokud nezaútočí. Imunní proti efektům, které působí na živé bytosti (např. otrava). Imunní proti čtení mysli a kouzlům ovlivňujícím mysl (např. _zmam nestvůru, spoutej nestvůru, spánek_).
+- **Nemrtví:** Nedělají žádný hluk, dokud nezaútočí. Imunní proti efektům, které působí na živé bytosti (např. otrava). Imunní proti čtení mysli a kouzlům ovlivňujícím mysl (např. _zmam nestvůru, spoutej nestvůru, spánek_).
 
 ## 19. Zátoka ghúlů
 **Přírodní jeskyně** (8 stop vysoká, kluzká a mlžná). **Pádící řeka** (studená a rychle tekoucí). **Písčitý záliv** (žíhaný cákanci krve).
@@ -238,7 +238,7 @@ Je zde šance 2 ze 6, že jeden z troglodytů z oblasti 16 číhá u severní
 ## 24. Řídicí místnost
 **Kovová podlaha** (lesklá, nezašpiněná). **Kamenné bloky** (stěny, strop 12 stop). **Obrovský kulatý balvan** (průměr 10 stop, na podlaze na západním konci místnosti). **Šest pák** (jižní stěna, očíslované 1–6). **Mosazná destička** (jižní stěna, „Nepovolaným vstup zakázán!“).
 - **Zatáhnutí za páku 1:** Podlaha v místnosti se najednou nakloní a obří balvan se začne kutálet na druhý konec. Všechny postavy v místnosti musí uspět v záchraně proti hůlkám, nebo utrpí 2k6 zranění.
-- **Zatáhnutí za páku 2:** Všichni černí kostlivci v jeskyni se aktivují. Při setkání zaútočí (viz statistiky níže).
+- **Zatáhnutí za páku 2:** Všichni černí kostlivci v podzemí se aktivují. Při setkání zaútočí (viz statistiky níže).
 - **Zatáhnutí za páku 3:** Sochy v oblasti 22 se na jednu směnu změní ve zlaté.
 - **Zatáhnutí za páku 4:** Deaktivuje zlaté světlo v oblasti 29.
 - **Zatáhnutí za páku 5:** Postava tahající za páku si trvale prohodí osobnost s jinou (náhodně vybranou) postavou.
@@ -592,7 +592,7 @@ Je šance 2 ze 6, že tady budou spát 1k4 chrápající gnómové.
 - **Prozkoumání obrazů:** Jsou různého věku a kvality, malované různými autory. Jde poznat některé současné obyvatele. Jeden pozoruhodný obraz líčí gnómskou stařenku pokrytou chrpami, usmívá se.
 
 ## 55. Rybářský sklad
-**Kamenné bloky** (stěny, strop 8 stop a podlaha). **Vědra** (s vodou). ÷ (čerstvé ryby, utkané z kořenů). **Železná láhev s rozprašovačem** (visí na háčku).
+**Kamenné bloky** (stěny, strop 8 stop a podlaha). **Vědra** (s vodou). **Koše** (čerstvé ryby, utkané z kořenů). **Železná láhev s rozprašovačem** (visí na háčku).
 - **Sever:** Zvuk proudící vody.
 - **Prozkoumání lahve s rozprašovačem:** Obsahuje lepkavou, štiplavou tekutinu, která působí jako odpuzovač ještěrů. Bere se jako útok na blízko, který zažene zasaženého ještěra na útěk. Láhev obsahuje dostatek tekutiny na 30 stříknutí.
 ### 1k3 gnómí strážci
@@ -604,7 +604,7 @@ Je šance 2 ze 6, že tady budou spát 1k4 chrápající gnómové.
 ### Spící gnómové
 Je šance 2 ze 6, že tady budou spát 1k4 chrápající gnómové.
 
-## 56. Taktická místnost
+## 57. Taktická místnost
 **Kamenné bloky** (stěny, strop 8 stop a podlaha). **Dřevěný stůl a židle** (robustní). **Velká mapa** (4 stopy široká). **Poblikávající svíčky** (kolem mapy). **Regály** (sklenice se sušenými rybami a zavařené sladkosti). **Police na knihy** (mnoho malých svazků).
 - **Prozkoumání mapy:** Zobrazuje kouzelný les s vyznačenými zvláštními místy.
 - **Prozkoumání knih:** Jsou napsané v gnómštině a řeší mnoho témat, včetně několika děsivých knih rituálů na vyvolání zlých duchů.

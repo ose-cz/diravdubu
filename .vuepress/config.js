@@ -12,12 +12,12 @@ module.exports = {
      './rozsireni-jeskyne/'
    ]
  },
- plugins: [
-    [
-      '@vuepress/google-analytics',
-      {
-        'ga': 'G-5YV7F086QQ' // UA-00000000-0
-      }
-    ]
-  ]
+// plugins: [
+  //  [
+    //  '@vuepress/google-analytics',
+      //{
+        //'ga': 'G-5YV7F086QQ' // UA-00000000-0
+      //}
+    //]
+  //]
 }

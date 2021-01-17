@@ -27,7 +27,7 @@ k20 | Událost
 11  | 1k3 **promočení ghúlové** (z oblasti 18) se plazí po zemi a větří čerstvou krev.
 12  | **Mutagenní zlobr** (z oblasti 25) si při hledání osamělých gnómů tiše zpívá píseň (obecnou řečí) o praskání kostí.
 13  | 1 vyhublý **krabouk** (statistiky v oblasti 14) se skrývá v rohu, maskuje se a má v úmyslu spadnout na kolemjdoucí.
-14  | 1k3+1 **ohnivci** (statistiky v oblasti 39) tančí pářící tanec. Jejich světelné žlázy radostně pulzují.
+14  | 1k3+1 **ohnivců** (statistiky v oblasti 39) tančí pářící tanec. Jejich světelné žlázy radostně pulzují.
 15  | 1k4 **kacířští gnómové** (z oblastí 51–60) jdou na povrch a nesou prázdné pytle a brašny na sběr hub a kořínků.
 16  | 1k4 **ještěří lidé** zmatení lektvarem a namazaní modrou barvou se plíží do posvátných jeskyní za vodopádem (oblast 50). **ÚČ** 5 [14], 2+1 **KŽ** (10 živ.), **útk.** 1× oštěp (1k6+1), **THAC0** 17 [+2], **pohyb** 60' (20') / 120' (40') ve vodě, **zách.** S12 H13 P14 D15 K16 (2), **morál.** 12, **přesv.** neutrální, 25 **zk.**
 17  | **Kouzelník** v modré róbě, zvaný **Hazrad Zkažený** se plíží ve tmě (má amulet infravidění) a mumlá, že jde pozdě. Hledá sklenice v oblasti 37. **ÚČ** 8 [11], 4 * **KŽ**  (10 živ.), **útk.** 1× dýka (1k4) nebo 1× kouzlo, **THAC0** 19 [0], **pohyb** 120' (40'), **zách.** S13 H14 P13 D16 K15 (kouzelník 4. úrovně), **morál.** 7, **přesv.** neutrální, 125 **zk.** Kouzla _magická střela, spánek, neviditelnost, přelud_.
